@@ -2,4 +2,5 @@
 
 Olá! Bem vindo ao Meu Livro de Receitas.
 
-- Pastel
+- Pastel de Carne
+- Pastel de Queijo
